@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: rgb(61, 61, 61);
+}
+.menuLobby{
+    background-color: rgb(34, 34, 34);
+}
+.buttonColor{
+    background-color: rgb(59, 59, 59);
+    width: 45px;
+    height: 45px;
+    
+}
+.buttonColor:hover {
+    background-color: rgb(131, 131, 131);
+}
+#buttonX{
+    color: orange
+}
+#buttonO{
+    color: green
+}
+.casilla{
+    border: gray solid;
+}
